@@ -45,7 +45,7 @@ Un servicio de Windows que revisa el programa de forma periódica y actúa por n
 
 ### Tecnologías
 
-`C#` · `.NET 8` · `Worker Service` · `BackgroundService` · `IHost` · `Windows Service` · `xUnit` · `PowerShell`
+`C#` · `.NET 8` · `Worker Service` · `BackgroundService` · `IHost` · `Windows Service` · `xUnit` · `PowerShell` · `Claude Code`
 
 ### Nota sobre el código
 
@@ -53,7 +53,7 @@ El código fuente es **privado** (software interno de la empresa). Este reposito
 
 ### Contacto
 
-Leandro Perdomo Soto · Estudiante de Ingeniería de Software · Portafolio Leo Dev
+Leandro Perdomo Soto · Estudiante de Ingeniería de Software · [Portafolio Leo Dev](https://leodev-rd.netlify.app) · [LinkedIn](https://www.linkedin.com/in/leandro-perdomo-84a28b202/)
 
 ---
 
@@ -96,7 +96,7 @@ A Windows service that checks the application periodically and responds in tiers
 
 ### Tech stack
 
-`C#` · `.NET 8` · `Worker Service` · `BackgroundService` · `IHost` · `Windows Service` · `xUnit` · `PowerShell`
+`C#` · `.NET 8` · `Worker Service` · `BackgroundService` · `IHost` · `Windows Service` · `xUnit` · `PowerShell` · `Claude Code`
 
 ### Note on the source code
 
@@ -104,4 +104,4 @@ The source code is **private** (internal company software). This repository docu
 
 ### Contact
 
-Leandro Perdomo Soto · Software Engineering student · Leo Dev portfolio
+Leandro Perdomo Soto · Software Engineering student · [Leo Dev portfolio](https://leodev-rd.netlify.app) · [LinkedIn](https://www.linkedin.com/in/leandro-perdomo-84a28b202/)
